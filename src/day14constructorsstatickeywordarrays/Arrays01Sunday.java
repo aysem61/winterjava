@@ -33,6 +33,7 @@ public class Arrays01Sunday {
 		
 		
 		String kelime[]=new String[5];
+		
 		System.out.println(Arrays.toString(kelime));
 		
 		int num[]=new int[4];

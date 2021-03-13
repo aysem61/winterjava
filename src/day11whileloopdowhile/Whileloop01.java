@@ -30,7 +30,7 @@ public class Whileloop01 {
 			System.out.println("Enter a number");
 			sum=sum*-1;
 		}
-		while(num%d=0) {
+		while(num%2==0) {
 			
 			sum=sum+1;
 			System.out.println("sum");
