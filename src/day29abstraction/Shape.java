@@ -34,6 +34,8 @@ public abstract class Shape {//ABSTRACT CLASSLARI ABSTRACT METHOD OLUSTURMAK ICI
 	public abstract int area(int a, int b);
 	public abstract int perimeter(int a, int b);
 	public abstract void colour();
+	
+	
 	public void draw() {//CONCRETE METHOD
 		System.out.println("I can draw");
 	}

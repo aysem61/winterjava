@@ -21,6 +21,7 @@ public class Runner {
        System.out.println(yeni.area(3, 5)+" ayse nin ki");
        
        yeni.draw();
+       
         
     }
 }
