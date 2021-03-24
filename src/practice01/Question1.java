@@ -1,5 +1,7 @@
 package practice01;
 
+import java.util.Scanner;
+
 public class Question1 {
 
 	public static void main(String[] args) {
@@ -37,10 +39,10 @@ public class Question1 {
 		        }else {
 		            System.out.println("Invalid input");
 		        }
-		        
+	} 
 		    }
-		}
+		
 
-}
 
-}
+
+
